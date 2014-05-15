@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\KillZone.cs">
+    <Files>
+      <File FileName="Assets\Scripts\KillZone.cs" Line="23" Column="32" />
+      <File FileName="Assets\Scripts\CameraManager.cs" Line="30" Column="4" />
+      <File FileName="Assets\Scripts\Triggered.cs" Line="19" Column="18" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="50" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
