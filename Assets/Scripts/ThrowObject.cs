@@ -21,7 +21,7 @@ public class ThrowObject : MonoBehaviour
 	private float lifeTime = 3.0f;
 
 	// Use this for initialization
-	void Start () 
+	void Awake () 
 	{
 		ContectedStuff = new List<Rigidbody>();
 		spawnTime = Time.time;
